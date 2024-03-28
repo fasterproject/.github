@@ -1,6 +1,6 @@
 # Welcome to Faster HQ 🚀
 
-Hey there! 👋 We are Re/Mov, a group of passionate developers dedicated to creating exciting projects just for fun. 🎉
+Hey there! 👋 We are Faster, a group of passionate developers dedicated to creating exciting projects just for fun. 🎉
 
 ## About Us ℹ️
 
